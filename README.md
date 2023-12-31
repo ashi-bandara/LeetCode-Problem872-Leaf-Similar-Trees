@@ -8,7 +8,7 @@ This solution outperformed 100% of Java users on LeetCode according to runtime m
 
 ## Overview
 
-Welcome to my LeetCode solution repository! This project addresses the coding challenge presented by [872.  Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/). Below, you'll find details about the problem, my approach to solving it, and the implemented solution.
+Welcome to my LeetCode solution repository! This project addresses the coding challenge presented by [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/). Below, you'll find details about the problem, my approach to solving it, and the implemented solution.
 
 ## Problem Statement
 Consider all the leaves of a binary tree, from left to right order, the values of those leaves form a *leaf value sequence*.
